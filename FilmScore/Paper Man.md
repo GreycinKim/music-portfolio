@@ -1,4 +1,4 @@
-# Sophomore Hobby Project
+# Sophomore Film Score Project
 
 Designed all the sounds and music on top of famous disney short film
 
